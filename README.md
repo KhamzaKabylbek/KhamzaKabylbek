@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Khamza
+# 👋 Hi, I’m Khamza
 
 I'm an aspiring developer with a passion for creating innovative solutions and building applications that make a difference.  
 
