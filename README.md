@@ -9,4 +9,4 @@ I'm an aspiring developer with a passion for creating innovative solutions and b
 
 
 ## 📫 How to reach me  
-- **Email**: (to:xamza110011@gmail.com)  
+- **Email**: (to: xamza110011@gmail.com)  
