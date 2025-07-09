@@ -4,7 +4,7 @@ I'm an aspiring developer with a passion for creating innovative solutions and b
 
 ## 👀 What I’m interested in  
 - iOS development  
-- Exploring new technologies like React Native  
+- Exploring new technologies like Flutter
 - Building impactful and profitable apps  
 
 
